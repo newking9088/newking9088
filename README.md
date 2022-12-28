@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nawaraj Paudel
-- I am a professional data scientist currently working on a trend detection in next-generation NMR technology development. I have a robust background and knowledge 
+👋 Hi, I’m Nawaraj Paudel
+I am a professional data scientist currently working on a trend detection in next-generation NMR technology development. I have a robust background and knowledge 
 in statistics, algebra, programming and machine learning. In my past 7 years as an applied data scientist and computational research scientist in demand driven industry Research and 
 Development, I have successfully implemented Python (R, MATLAB) to analyze big data and visualized them to output high quality images for business and scientific
 publications in renowned journals. I atteneded several graduate specialized courses in Machine Learning while I was in school to begin with and gained hands-on 
@@ -11,9 +11,9 @@ team environment and meet strict deadlines by prioritizing work or changing prio
 seaborn, scikit, PyTorch, TensorFlow to name a few, SQL, and regression, classification, Bayesian statistics, support vector machines, decision tree, fine tuning etc.
 concepts in machine learning. I am always open to learn new skills, and strongly believe that adaptation, passion, and perseverance are key to success.
 
-- 🌱 I’m currently working on AWS Certified Big Data - Specialty and ML pipelines.
-- 💞️ If you are looking for a data scientist/ data engineer/ ML engineer who is meticulous, a team communion, innovative, open to learning new techniques
-- 📫 Please reach out to me at newking9088@gmail.com
+🌱 I’m currently working on AWS Certified Big Data - Specialty and ML pipelines.
+💞️ If you are looking for a data scientist/ data engineer/ ML engineer who is meticulous, a team communion, innovative, open to learning new techniques
+📫 Please reach out to me at newking9088@gmail.com
 
 <!---
 newking9088/newking9088 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
