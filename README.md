@@ -1,4 +1,5 @@
 👋 Hi, I’m Nawaraj Paudel
+
 I am a professional data scientist currently working on a trend detection in next-generation NMR technology development. I have a robust background and knowledge 
 in statistics, algebra, programming and machine learning. In my past 7 years as an applied data scientist and computational research scientist in demand driven industry Research and 
 Development, I have successfully implemented Python (R, MATLAB) to analyze big data and visualized them to output high quality images for business and scientific
