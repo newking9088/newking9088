@@ -13,7 +13,9 @@ seaborn, scikit, PyTorch, TensorFlow to name a few, SQL, and regression, classif
 concepts in machine learning. I am always open to learn new skills, and strongly believe that adaptation, passion, and perseverance are key to success.
 
 🌱 I’m currently working on AWS Certified Big Data - Specialty and ML pipelines.
+
 💞️ If you are looking for a data scientist/ data engineer/ ML engineer who is meticulous, a team communion, innovative, open to learning new techniques
+
 📫 Please reach out to me at newking9088@gmail.com
 
 <!---
