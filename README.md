@@ -1,16 +1,12 @@
 👋 Hi, I’m Nawaraj Paudel
 
-I am a professional data scientist currently working on a trend detection in next-generation NMR technology development. I have a robust background and knowledge 
-in statistics, algebra, programming and machine learning. In my past 7 years as an applied data scientist and computational research scientist in demand driven industry Research and 
-Development, I have successfully implemented Python (R, MATLAB) to analyze big data and visualized them to output high quality images for business and scientific
-publications in renowned journals. I atteneded several graduate specialized courses in Machine Learning while I was in school to begin with and gained hands-on 
-experience on ML model development and Applied Python Programming through real projects and multitude of professional certifications ranging from Applied Python for
-Data Scientist  to advanced concept of Machine Learning like gradient boosting algorithms, dimensionality reduction algorithms, logistic regression etc., to hone my skill.
-When I was working as a scientific staff in a large research group with new undergraduates joining the summer research program every year, I was tasked to train and help formulate a
-research program for 3 months, I have developed invaluable leadership and mentorship skills. I have proven my ability to work independently, as a strong collaborator in
-team environment and meet strict deadlines by prioritizing work or changing priority as needed. I am well versed in using Python packages like NumPy, pandas, matplotlib,
-seaborn, scikit, PyTorch, TensorFlow to name a few, SQL, and regression, classification, Bayesian statistics, support vector machines, decision tree, fine tuning etc.
-concepts in machine learning. I am always open to learn new skills, and strongly believe that adaptation, passion, and perseverance are key to success.
+As a highly experienced professional data scientist with 7+ years in the field, I have a deep understanding of data science, statistics, and machine learning. My current work involves trend detection in next-generation NMR technology development to transform the health sector, as well as data analysis, modeling, and database principles.
+
+I am proficient in using a range of programming languages, including Python (and R, MATLAB), to analyze big data, visualize results, and produce high-quality images for business and scientific publications in reputable journals. In addition to my advanced education in machine learning, I have also gained hands-on experience through real projects and professional certifications, including an Applied Python for Data Scientists certification and advanced courses in gradient boosting algorithms, dimensionality reduction algorithms, and logistic regression.
+
+As a senior scientific staff member and data scientist in a large research group, I have developed strong leadership and mentorship skills through my responsibility of mentoring junior data scientists and material scientists. I am able to work effectively both independently and as part of a team, and have a track record of meeting strict deadlines by prioritizing tasks and adapting to changing priorities as needed.
+
+I am proficient in using Python packages such as NumPy, pandas, matplotlib, seaborn, scikit, PyTorch, and TensorFlow, as well as SQL, and have expertise in machine learning concepts such as regression, classification, Bayesian statistics, support vector machines, and decision trees. I am always looking to expand my skillset and believe that adaptation, passion, and perseverance are key to success in this field.
 
 🌱 I’m currently working on AWS Certified Big Data - Specialty and ML pipelines.
 
