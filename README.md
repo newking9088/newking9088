@@ -8,7 +8,7 @@ As a senior scientific staff member and data scientist in a large research group
 
 I am proficient in using Python packages such as NumPy, pandas, matplotlib, seaborn, scikit, PyTorch, and TensorFlow, as well as SQL, and have expertise in machine learning concepts such as regression, classification, Bayesian statistics, support vector machines, and decision trees. I am always looking to expand my skillset and believe that adaptation, passion, and perseverance are key to success in this field.
 
-🌱 I’m currently working on AWS Certified Big Data - Specialty and ML pipelines.
+🌱 I’m currently working on Battery Intelligence which aims to revolutionalize the battery performance with the use of ML/DL.
 
 💞️ If you are looking for a data scientist/ data engineer/ ML engineer who is meticulous, a team communion, innovative, open to learning new techniques
 
