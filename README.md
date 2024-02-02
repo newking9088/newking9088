@@ -1,8 +1,8 @@
 👋 Hi, I’m Nawaraj Paudel
 
-As a highly experienced professional data scientist with 7+ years in the field, I have a deep understanding of data science, statistics, and machine learning. My current work involves trend detection in next-generation NMR technology development to transform the health sector, as well as data analysis, modeling, and database principles.
+As a highly experienced professional data scientist with 7+ years in the field, I have a deep understanding of data science, statistics, and machine learning. My current project involves using Deep Learning/classical ML methods to enhance battery performance/lifecycle. My previous work involved trend detection in next-generation NMR technology development to transform the health sector, as well as data analysis, modeling, and database principles.
 
-I am proficient in using a range of programming languages, including Python (and R, MATLAB), to analyze big data, visualize results, and produce high-quality images for business and scientific publications in reputable journals. In addition to my advanced education in machine learning, I have also gained hands-on experience through real projects and professional certifications, including an Applied Python for Data Scientists certification and advanced courses in gradient boosting algorithms, dimensionality reduction algorithms, and logistic regression.
+I am proficient in using a range of programming languages, including Python (and R, MATLAB, SQL), to analyze big data, visualize results, and produce high-quality images for business and scientific publications in reputable journals.
 
 As a Data Scientist and a former senior scientific staff member at National High Magnetic Field laboratory, I have developed strong leadership and mentorship skills through my responsibility of mentoring junior data scientists and experimental scientists. I am able to work effectively both independently and as part of a team, and have a track record of meeting strict deadlines by prioritizing tasks and adapting to changing priorities as needed.
 
