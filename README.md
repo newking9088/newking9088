@@ -59,4 +59,5 @@ I'm an accomplished Machine Learning and Generative AI Engineer with a PhD in Qu
 I'm passionate about pushing the boundaries of what's possible with AI and machine learning. If you're interested in collaborating on innovative projects or discussing potential opportunities, feel free to reach out!
 
 📧 Email: newking9088@gmail.com
-💼 LinkedIn: [linkedin.com/in/nawarajpaudel]
+
+💼 LinkedIn: linkedin.com/in/nawarajpaudel
