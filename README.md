@@ -22,6 +22,8 @@ I'm an accomplished Machine Learning and Generative AI Engineer with a PhD in Qu
 ### 🔋 Battery Intelligence & Optimization
 - Developed a Python package for battery cell parameterization, projected to save $1M annually
 - Fine-tuned Llama 3.1 8B Instruct 128k for battery intelligence data analysis using prompt commands
+- Engineered an automated tool for swift data extraction from AWS Grafana/Redshift
+- [GitHub Repo](https://github.com/newking9088/Ad-hoc-Data-Analysis-Automation)
 
 ### 🧲 Superconducting Materials Research
 - Established a benchmark in low-temperature superconductors with 99.7% accurate predictions of magnetic strength
