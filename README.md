@@ -1,52 +1,62 @@
-👋 About Me
+# 👋 Hi, I'm Nawaraj Paudel
 
-As a highly experienced professional data scientist with over a decade in the field, I have a deep understanding of data science, statistics, and machine learning. My current project involves using Deep Learning/classical ML methods to enhance battery performance/lifecycle. My previous work involved trend detection in battery intelligence, next-generation NMR technology development to transform the health sector, as well as data analysis, modeling, and database principles.
+I'm an accomplished Machine Learning and Generative AI Engineer with a PhD in Quantitative Modeling from Florida State University. With nearly a decade of expertise in data science, machine learning, and AI, I specialize in leveraging cutting-edge technologies to solve complex problems and drive business outcomes.
 
-## Professional Experience
+## 🚀 Featured Projects
 
-### Data Science Analyst at Iontra Inc.
-At Iontra Inc., I have been instrumental in developing AI-driven early prediction models to optimize battery performance. My work focuses on:
-- Enhancing battery charge speed and cycle life using advanced machine learning techniques.
-- Implementing predictive maintenance models to foresee potential battery failures.
-- Utilizing big data analytics to improve battery design and performance metrics.
+### 💰 Banking Marketing Strategy Optimization
+- Increased term deposit subscription rates by 66% and reduced campaign costs by over 50% using advanced ML models
+- Achieved a 77% recall rate and a balanced F1 score of 0.662, significantly boosting customer value and profitability
+- [Blog Post](https://nycdatascience.com/blog/student-works/machine-learning/data-driven-strategies-to-boost-bank-term-deposits-and-customer-loyalty/)
 
-### Data Science and Machine Learning Research Fellow at New York Data Science Academy
-I have completed over 600 hours of rigorous training in data science and machine learning at the New York Data Science Academy. This experience has equipped me with:
-- In-depth knowledge of machine learning algorithms and their real-world applications.
-- Hands-on experience with Python, R, and SQL for data analysis and visualization.
-- Expertise in building and deploying machine learning models for various industries, including healthcare, finance, and business.
+### 📈 NASDAQ-100 ROI Optimization
+- Optimized return on investment by 12% through strategic analysis of NASDAQ-100 companies using 31 financial metrics
+- Developed an interactive LLM-powered cloud-hosted application for dynamic data exploration and analysis
+- [Blog Post](https://nycdatascience.com/blog/streamlit/optimizing-roi-for-nasdaq-100-companies/)
 
-### Experimental Data Scientist at National High Magnetic Field Laboratory
-- Designed an efficient data analysis workflow tool utilizing ETL techniques in SQL, NumPy, Pandas, Matplotlib, and Seaborn to effectively process big data sets, resulting in a 95% efficiency improvement in data analysis.
-- Reduced experimental cost and time by 40% by integrating real-time data from LabView into automated Python modules for early-stage superconducting failure detection, employing simple trend prediction, feature engineering, and statistical pass/fail modeling.
-- Designed experiments and constructed predictive models to forecast the upper strength limit of Nb-Sn magnets at 0 K using WHH curve fitting techniques, achieving a prediction accuracy of 99.7%.
-- Drafted a proposal submitted to the Department of Energy (DoE) advocating for expanded research into utilizing computer vision methodologies to discern grain size and employing unsupervised clustering algorithms for compositional analysis of EDS images pertaining to superconducting materials. The program has received approval and is making significant advancements in the field of material science.
+### 🏠 Real Estate Price Prediction & Recommendation
+- Achieved 95% accuracy in predicting property prices with a margin of error within 5%
+- Enhanced property recommendations tailored to customer preferences using KNN and collaborative filtering
+- [GitHub Repo](https://github.com/newking9088/real_estate_cost_estimation_and_property_recommendation)
 
-## Skills and Expertise
+### 🔋 Battery Intelligence & Optimization
+- Developed a Python package for battery cell parameterization, projected to save $1M annually
+- Fine-tuned Llama 3.1 8B Instruct 128k for battery intelligence data analysis using prompt commands
 
-### Languages
-- Python, SQL, R, Excel, Java, HTML5
+### 🧲 Superconducting Materials Research
+- Established a benchmark in low-temperature superconductors with 99.7% accurate predictions of magnetic strength
+- Published a high-impact journal article modeling magnetic strength
+- [Published Paper](https://journals.aps.org/prmaterials/accepted/0a070Z7aFbf11000235a30878e7ee7568f8e42849)
+- Secured a Department of Energy grant for research utilizing computer vision and unsupervised clustering
 
-### Machine Learning
-- Scikit-learn, Keras, Pandas, NumPy, SciPy, nltk, PySpark, PyTorch, TensorFlow
+## 💻 Technical Skills
 
-### Data Visualization
-- Matplotlib, Seaborn, Plotly, Dash, ggplot2, Tableau, Power BI, Excel
+**ML & AI Frameworks:** Generative AI | Machine Learning | Deep Learning | Data Science | Statistical Modeling | NLP | RAG | LLM | BERT | LSTM | Llama | Gemma
 
-### Other Skills
-- AWS Grafana, QuickSight, RedShift, AWS Lambda, JIRA, Confluence, Agile/Hybrid Methodology, Docker, DynamoDB, GitHub, VS Code Studio, Jupyter Notebook
-- Design of Experiments, Report Writing, Cross-functional Collaboration, Project Management
+**Programming:** Python | SQL | R | Java | HTML5
 
+**Databases:** PostgreSQL | MySQL | DynamoDB | MongoDB
 
-🌱 I have extensive experience in designing experiments, data collection, pipeline building, and developing machine learning models for predicting possible cell explosions in batteries. My hands-on experience spans healthcare, finance, and business industries. In healthcare, I developed predictive models for health risk identification and patient outcome improvement, and analyzed EHR data to uncover trends and enhance diagnostic accuracy. In finance, I built models for credit risk assessment and fraud detection, conducted time series analysis, and used NLP for market trend prediction and sentiment analysis. In business, I optimized data pipelines, developed dashboards for data-driven decisions, and implemented customer segmentation models.
+**Libraries:** NumPy | Pandas | Scikit-learn | PyTorch | TensorFlow | Keras | NLTK | XGBoost | SVM | CatBoost | LightGBM | AdaBoost
 
-💞️ If you are looking for a data scientist/data engineer/ML engineer who is meticulous, a team player, innovative, and open to learning new techniques, please reach out to me.
+**Visualization & BI:** Matplotlib | Plotly | Ggplot2 | Dash | Altair | PowerBI | Tableau
 
-📫 You can contact me at newking9088@gmail.com
+**Cloud & DevOps:** AWS | Redshift | Grafana | QuickSight | Streamlit
 
+**Project Management:** Git | Jira | Confluence | Agile | Cross-functional Collaboration
 
+## 🎓 Education
 
-<!---
-newking9088/newking9088 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**PhD in Quantitative Modeling, Applied Physics** | Florida State University | 2020-2023
+
+## 🏅 Certifications
+
+- DeepLearning.AI TensorFlow Developer | Coursera | 2020
+- Natural Language Processing in TensorFlow | DeepLearning.AI, Coursera | 2020
+
+## 🤝 Let's Connect
+
+I'm passionate about pushing the boundaries of what's possible with AI and machine learning. If you're interested in collaborating on innovative projects or discussing potential opportunities, feel free to reach out!
+
+📧 Email: newking9088@gmail.com
+💼 LinkedIn: [linkedin.com/in/nawarajpaudel]
