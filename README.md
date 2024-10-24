@@ -48,6 +48,7 @@ I'm an accomplished Machine Learning and Generative AI Engineer with a PhD in Qu
 ## 🎓 Education
 
 **PhD in Quantitative Modeling, Applied Physics** | Florida State University | 2020-2023
+**MS Applied Physics and Data Science** | Florida State University | 2017-2020
 
 ## 🏅 Certifications
 
