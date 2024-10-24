@@ -60,4 +60,4 @@ I'm passionate about pushing the boundaries of what's possible with AI and machi
 
 📧 Email: newking9088@gmail.com
 
-💼 LinkedIn: linkedin.com/in/nawarajpaudel
+💼 LinkedIn: https://www.linkedin.com/in/nawarajpaudel/
