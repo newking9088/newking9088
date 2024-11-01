@@ -14,10 +14,10 @@ I'm an accomplished Machine Learning and Generative AI Engineer with a PhD in Qu
 - Developed an interactive LLM-powered cloud-hosted application for dynamic data exploration and analysis
 - [Blog Post](https://nycdatascience.com/blog/streamlit/optimizing-roi-for-nasdaq-100-companies/)
 
-### 🏠 Real Estate Price Prediction & Recommendation
+### 🏠 Automated ML Pipeline for Real Estate Price Prediction & Recommendation
 - Achieved 95% accuracy in predicting property prices with a margin of error within 5%
 - Enhanced property recommendations tailored to customer preferences using KNN and collaborative filtering
-- [GitHub Repo](https://github.com/newking9088/real_estate_cost_estimation_and_property_recommendation)
+- [Bologpost](https://nycdatascience.com/blog/student-works/end-to-end-machine-learning-pipeline-for-real-estate-valuation-recommendation-engine/)
 
 ### 🔋 Battery Intelligence & Optimization
 - Developed a Python package for battery cell parameterization, projected to save $1M annually
