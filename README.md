@@ -9,7 +9,7 @@ I'm an accomplished Machine Learning and Generative AI Engineer with a PhD in Qu
 - Achieved a 77% recall rate and a balanced F1 score of 0.662, significantly boosting customer value and profitability
 - [Blog Post](https://nycdatascience.com/blog/student-works/machine-learning/data-driven-strategies-to-boost-bank-term-deposits-and-customer-loyalty/)
 
-### 📈 NASDAQ-100 ROI Optimization
+### 📈 SmartFinance AI: Intelligent NASDAQ-100 Analytics Platform
 - Optimized return on investment by 12% through strategic analysis of NASDAQ-100 companies using 31 financial metrics
 - Developed an interactive LLM-powered cloud-hosted application for dynamic data exploration and analysis
 - [Blog Post](https://nycdatascience.com/blog/streamlit/optimizing-roi-for-nasdaq-100-companies/)
