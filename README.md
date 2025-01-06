@@ -4,6 +4,15 @@ I'm an accomplished Machine Learning and Generative AI Engineer with a PhD in Qu
 
 ## 🚀 Featured Projects
 
+### 🦷 Dental Insurance Verification Enhancement
+
+- Automated verification process reducing manual effort by 80% through ML-based text extraction and classification
+- Improved accuracy of benefits interpretation by 75% by implementing an FAISS-based accent correction system
+- Decreased average verification time from 15 minutes to 3 minutes by streamlining data collection and processing
+- Reduced verification errors by 90% through automated validation checks and standardized data formats
+- Built a continuously learning database system for handling diverse accent patterns and insurance terminology
+- [Blog Post](https://nycdatascience.com/blog/student-works/the-smart-solution-to-health-insurance-verification-ai-powered-intelligence/)
+
 ### 💰 Banking Marketing Strategy Optimization
 - Increased term deposit subscription rates by 66% and reduced campaign costs by over 50% using advanced ML models
 - Achieved a 77% recall rate and a balanced F1 score of 0.662, significantly boosting customer value and profitability
