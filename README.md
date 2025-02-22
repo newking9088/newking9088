@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nawaraj Paudel
 
-I'm an accomplished Machine Learning and Generative AI Engineer with a PhD in Quantitative Modeling from Florida State University. With nearly a decade of expertise in data science, machine learning, and AI, I specialize in leveraging cutting-edge technologies to solve complex problems and drive business outcomes.
+I'm an accomplished Machine Learning and Generative AI Engineer with a PhD in Physics from Florida State University. With nearly a decade of expertise in data science, machine learning, and AI, I specialize in leveraging cutting-edge technologies to solve complex problems and drive business outcomes.
 
 ## 🚀 Featured Projects
 
